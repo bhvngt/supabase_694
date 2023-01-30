@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@supabase/gotrue-js": "2.10.0"
+	}
+}
